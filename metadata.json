@@ -1,0 +1,6 @@
+{
+  "name": "KunX",
+  "description": "An advanced, immersive Physics Knowledge Platform with interactive simulations, 3D laboratory, Cosmic Explorer, AI Physics Assistant, complete library of classical and modern physics, and dynamic equation calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
